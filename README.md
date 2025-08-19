@@ -4,6 +4,7 @@
 <ul>
     <li><a href="#project-description">Project Description</a></li>
     <li><a href="#motivation">Motivation</a></li>
+    <li><a href="#key-takeaways">Key Takeaways</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#design">Design</a></li>
@@ -19,6 +20,10 @@
 
 <h2 id="motivation">Motivation</h2>
 <p>A clear explanation of the reasons behind the project's creation, including the problem it addresses and the benefits it offers.</p>
+
+<h2 id="key-takeaways">Key Takeaways</h2>
+<p>The most important points and insights a user can take from this repository, summarizing its core value and key lessons learned.</p>
+
 
 <h2 id="installation">Installation</h2>
 <p>Step-by-step instructions on how to set up the development environment and install necessary dependencies. </p>
